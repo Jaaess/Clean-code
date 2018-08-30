@@ -113,7 +113,7 @@ A function is doing more than "one thing" if you can extract another function fr
 * Do One Thing.
 * Have No Sections.
 * One Level of Abstraction Per Function.
-* Read From Top to Bottom: The Stepdown Rule
+* Read From Top to Bottom: ![#f03c15](The Stepdown Rule)
 
 *Clean Code, Robert C. Martin, p31-49*
 
@@ -128,7 +128,7 @@ A function is doing more than "one thing" if you can extract another function fr
 
 *Clean Code, Robert C. Martin, p288*
 
-> The code should read like a top-down narrative. We want every function to be followed by those at the next level of abstraction so that we can read the program, descending one level of abstraction at a time as we read down the list of functions. I call this The Stepdown Rule.
+> The code should read like a top-down narrative. We want every function to be followed by those at the next level of abstraction so that we can read the program, descending one level of abstraction at a time as we read down the list of functions. I call this ![#f03c15](The Stepdown Rule).
 
 ## Classes:
 
